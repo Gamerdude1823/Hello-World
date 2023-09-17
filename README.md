@@ -5,7 +5,6 @@ from episode 3 of Star Wars.
 
 I created this program to ensure that my GitHub repositories are connecting and working correctly so that the projects I have completed can be view and displayed to 
 potential employers. 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/QR5wgx29mOI)
 
