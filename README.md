@@ -13,7 +13,7 @@ potential employers.
 
 I used Python in the Visual Studios Code IDE. I also imported the libary of time to pause the print function within the program.
 
-I untilized python to due my profficentcy with the langauge as well as it's simplistic nature.
+I untilized python to due my proficiency with the langauge as well as it's simplistic nature.
 
 # Useful Websites
 * [Stack Overflow](https://stackoverflow.com/questions/11552320/correct-way-to-pause-a-python-program)
