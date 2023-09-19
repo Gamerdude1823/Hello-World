@@ -1,23 +1,18 @@
-# Overview
+# Hello World Overview
+ 
+This program runs the classic "Hello World" message with a twist. The program starts with the Hello World then procceds to recount the tale of Darth Plague the Wise
+from episode 3 of Star Wars. 
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I created this program to ensure that my GitHub repositories are connecting and working correctly so that the projects I have completed can be view and displayed to 
+potential employers. 
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QR5wgx29mOI)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Python in the Visual Studios Code IDE. I also imported the libary of time to pause the print function within the program.
 
-{Describe the programming language that you used}
+I untilized python to due my proficiency with the langauge as well as it's simplistic nature.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Stack Overflow](https://stackoverflow.com/questions/11552320/correct-way-to-pause-a-python-program)
